@@ -35,6 +35,12 @@ __Soduko__ (Python)
 - Text based version of the game Soduko. 
 - Able to load in new boards and save the current game to a new file for play later. 
 
+## Relevent Coursework 
+- Algorithm Design, Modulurazation Design, Encapsulation Design.
+- Web Frontend design, Web Backend Design. 
+ - Applied Programming, Programing With Data Structures, Programing with Classes. 
+
+
 
 
 
