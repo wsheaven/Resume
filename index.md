@@ -18,7 +18,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - Minor in Business Analytics
 
 ## Skills 
-- Python, C++, Javascript, HTML/CSS, PHP, and mysql. 
+- Python, C++, Javascript, HTML/CSS, and mysql. 
 - Teamwork, including an Agile development enviroment
 
 
