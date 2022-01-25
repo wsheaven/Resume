@@ -24,8 +24,8 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Projects 
 
-__Chrome Dinosour Game Bot__ (Python) 
-- Created a python program that utilizes the Pillow library along with win32 to identify incoming obstacles and make the correct input to dodge and continue to play. 
+__Chrome Dinosour Game Bot__ (C++) 
+- Created a C++ program that utilizes the Windows.h library to identify incoming obstacles and make the correct input to dodge and continue to play. 
 
 __Super Smash Bro's Clone__ (Python)
 - Clone of the popular game super smash brothers using the pyarcade library. 
@@ -37,7 +37,7 @@ __Soduko__ (Python)
 
 ## Relevent Coursework 
 - Algorithm Design, Modulurazation Design, Encapsulation Design.
-- Web Frontend design, Web Backend Design. 
+- Web Frontend design. 
  - Applied Programming, Programing With Data Structures, Programing with Classes. 
 
 
