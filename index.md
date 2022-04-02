@@ -17,9 +17,21 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - BS Software Engineering 
 - Minor in Business Analytics
 
-## Skills 
-- Python, C++, Javascript, HTML/CSS, and mysql. 
-- Teamwork, including an Agile development enviroment
+## Service and Work History
+
+`2020-2020`
+__Insulite Manufacturing__, Shipping Lead 
+
+-	Collaberated with Foreman to ensure production is on time 
+-	Performed quality ensurance's checks during and after the production cycle 
+-	Managed shipping schedules to make sure that product was delivered quickly with no damage 
+
+`2019-2020`
+__Missionary__, Riverside California
+
+## Technical Skills 
+- Python, C++, Kotlin, Javascript, HTML/CSS, Django, React, git, and mysql. 
+- Visual Studio Code, Visual Studio, Github, IntelliJ, Android Studio, and mysql Workbench.  
 
 
 ## Projects 
@@ -34,17 +46,25 @@ __Super Smash Bro's Clone__ (Python)
 - Utilizes the principles of Object Oriented Programing to create an effecient and secure program. 
 - <a href="https://github.com/wsheaven/hyper_bash_siblings">Github</a>
 
-__Soduko__ (Python)
-- Text based version of the game Soduko. 
-- Able to load in new boards and save the current game to a new file for play later. 
-- <a href="https://github.com/wsheaven/Sudoku">Github</a>
+__Dynamic Blog__ (Django)
+- blog web application that utilzes the Django framework.  
+- Database integration to control comment and post creation. 
+- Dynamically display posts and comments for an lightweight design.   
+- <a href="https://github.com/wsheaven/DjangoBlog">Github</a>
 
 ## Relevent Coursework 
 - Algorithm Design, Modulurazation Design, Encapsulation Design.
 - Web Frontend design. 
  - Applied Programming, Programing With Data Structures, Programing with Classes. 
 
+<!-- ## Volunteer Work
 
+`2018-2019`
+__Volunteer Representative__, Riverside, CA
+<em>The Church of Jesus Christ of Latter-day Saints</em>
+- Gained experience in cold-call techniques and interpersonal skills with a 70+ hour work week
+- Provided effective, interactive training to large groups in over a dozen meetings
+- Appointed to lead and provide motivation to groups of up to 16 representatives -->
 
 
 
