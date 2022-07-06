@@ -27,7 +27,7 @@ __Brigham Young University - Idaho__, Online TA
 -   Self managed schedule to ensure fast turnaround. 
 
 `2020-2020`
-__Insulite Manufacturing__, Shipping Lead 
+__Insulite Manufacturing__, Shipping Associate
 
 -	Collaberated with Foreman to ensure production is on time 
 -	Performed quality ensurance's checks during and after the production cycle 
