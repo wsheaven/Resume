@@ -17,7 +17,14 @@ __Brigham Young University - Idaho__, Rexburg, ID
 - BS Software Engineering 
 - Minor in Business Analytics
 
-## Service and Work History
+## Work History
+
+`Spring Semester 2022`
+__Brigham Young University - Idaho__, Online TA
+
+-   Graded for the class "CSE 210 - Programming with Classes".
+-	Worked remotely with lead and team members to ensure effecient and consistant grading.
+-   Self managed schedule to ensure fast turnaround. 
 
 `2020-2020`
 __Insulite Manufacturing__, Shipping Lead 
@@ -26,11 +33,8 @@ __Insulite Manufacturing__, Shipping Lead
 -	Performed quality ensurance's checks during and after the production cycle 
 -	Managed shipping schedules to make sure that product was delivered quickly with no damage 
 
-`2019-2020`
-__Missionary__, Riverside California
-
 ## Technical Skills 
-- Python, C++, Kotlin, Javascript, HTML/CSS, Django, React, git, and mysql. 
+- Python, C++, Kotlin, Javascript, HTML/CSS, Django, React, git, Excel, and mysql. 
 - Visual Studio Code, Visual Studio, Github, IntelliJ, Android Studio, and mysql Workbench.  
 
 
@@ -57,14 +61,7 @@ __Dynamic Blog__ (Django)
 - Web Frontend design. 
  - Applied Programming, Programing With Data Structures, Programing with Classes. 
 
-<!-- ## Volunteer Work
 
-`2018-2019`
-__Volunteer Representative__, Riverside, CA
-<em>The Church of Jesus Christ of Latter-day Saints</em>
-- Gained experience in cold-call techniques and interpersonal skills with a 70+ hour work week
-- Provided effective, interactive training to large groups in over a dozen meetings
-- Appointed to lead and provide motivation to groups of up to 16 representatives -->
 
 
 
