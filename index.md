@@ -29,9 +29,9 @@ __Brigham Young University - Idaho__, Online TA
 `2020-2020`
 __Insulite Manufacturing__, Shipping Associate
 
--	Collaberated with Foreman to ensure production is on time 
--	Performed quality ensurance's checks during and after the production cycle 
--	Managed shipping schedules to make sure that product was delivered quickly with no damage 
+-	Collaberated with Foreman to ensure production of high quality windows was on time. 
+-	Performed quality ensurance's checks during and after the production cycle. 
+-	Managed shipping schedules to make sure that product was delivered quickly with no damage. 
 
 ## Technical Skills 
 - Python, C++, Kotlin, Javascript, HTML/CSS, Django, React, git, Excel, and mysql. 
