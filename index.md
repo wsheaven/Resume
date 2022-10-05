@@ -19,7 +19,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 ## Work History
 
-`Spring Semester 2022`
+`April 2022-Current`
 __Brigham Young University - Idaho__, Online TA
 
 -   Graded for the class "CSE 210 - Programming with Classes".
